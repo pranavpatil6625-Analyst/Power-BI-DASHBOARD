@@ -6,11 +6,6 @@ The dashboard enables businesses to track KPIs, identify top customers, and moni
 
 ---
 
-## 📊 Dashboard Preview
-![Sales Review Dashboard](screenshots/sales_dashboard.png)
-
----
-
 ## 🔹 Key Metrics
 - **Total Sales:** $24.91M  
 - **Total Orders:** 25.16K  
@@ -41,4 +36,8 @@ The dashboard enables businesses to track KPIs, identify top customers, and moni
 
 ## 🔹 Tools Used
 - **Power BI** →  Cleaning & Dashboard creation  
-- **Excel / CSV** → Data preprocessing 
+- **Excel / CSV** → Data preprocessing
+
+  
+## 📊 Dashboard Preview
+![Sales Review Dashboard](https://github.com/pranavpatil6625-Analyst/Power-BI-DASHBOARD/blob/main/Sales%20Dashboard.png)
